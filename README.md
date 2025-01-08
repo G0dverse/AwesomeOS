@@ -22,4 +22,6 @@ A list of VERY Awesome Linux Based Operating Systems.
 - [MXLinux](https://mxlinux.org/)
 - [Redhat](https://www.redhat.com/)
 - [Zorin](https://zorin.com/)
-- Totalling 20 Operating Systems.
+
+
+# Totalling 20 Operating Systems.
