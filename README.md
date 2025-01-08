@@ -1,6 +1,6 @@
 A list of VERY Awesome Linux Based Operating Systems.
 
-# The List
+# The List:
 - [Fedora](https://fedoraproject.org/)
 - [Manjaro](https://manjaro.org/)
 - [Void Linux](https://voidlinux.org/)
