@@ -1,4 +1,3 @@
-# AwesomeOS
 A list of VERY Awesome Linux Based Operating Systems.
 
 # The List
